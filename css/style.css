@@ -12,3 +12,12 @@
     color: #ff9900;
     height: 100vh;
 }
+
+.container-fluid {
+    height: 100vh;
+}
+
+.bg-green {
+    background-color: #7ABA7A;
+    color: #fff;
+}
