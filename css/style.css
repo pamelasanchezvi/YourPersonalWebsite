@@ -1,0 +1,14 @@
+.jumbotron{
+    margin-top:0px;
+    margin-bottom:0px;
+    border-bottom:0 auto;
+    background-position: center;
+    background-repeat:no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-image:  url('../images/ethiopia2.jpg');
+    color: #ff9900;
+    height: 100vh;
+}
